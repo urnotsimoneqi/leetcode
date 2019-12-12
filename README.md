@@ -45,6 +45,20 @@ Longest Substring Without Repeating Characters
 
 Remove Duplicates from Sorted Array
 
+Remove Element
+
 #### Pattern: Fast & Slow pointers, **快慢指针类型**
 
 #### 
+
+
+
+#### Array
+
+15. 3Sum
+
+26. Remove Duplicates from Sorted Array
+27. Remove Element
+
+122. Best Time to Buy and Sell Stock II
+
